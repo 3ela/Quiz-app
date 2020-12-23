@@ -88,6 +88,7 @@ export default {
         difficulty: 'easy',
         type: 'multiple',
       },
+      
       types: [
         {name: 'Multiple Choice', value: 'multiple'},
         {name: 'True or False', value: 'boolean'}
